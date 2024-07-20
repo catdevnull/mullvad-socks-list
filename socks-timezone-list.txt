@@ -217,7 +217,7 @@
 10.124.0.6 Europe/Rome
 10.124.0.108 Europe/Rome
 10.124.0.109 Europe/Rome
-10.124.0.110 Europe/Rome
+;; communications error to 1.1.1.1#53: timed out Europe/Rome
 10.124.0.56 Europe/Oslo
 10.124.0.136 Europe/Oslo
 10.124.0.244 Europe/Oslo
