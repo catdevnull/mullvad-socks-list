@@ -1,5 +1,5 @@
-Date: 2024-07-22 01-52-30 UTC
-Total active proxies: 460
+Date: 2024-07-22 06-48-29 UTC
+Total active proxies: 457
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -332,9 +332,6 @@ Total active proxies: 460
  🇺🇸    USA             Dallas, TX          10.124.0.149  174.127.113.15   2606:2e00:8007:1::a37f                1      3149      ❌     100TB          ✔️      us-dal-wg-108 
  🇺🇸    USA             Dallas, TX          10.124.0.150  174.127.113.16   2606:2e00:8007:1::a38f                1      3150      ❌     100TB          ✔️      us-dal-wg-109 
  🇺🇸    USA             Dallas, TX          10.124.0.151  174.127.113.17   2606:2e00:8007:1::a39f                1      3151      ❌     100TB          ✔️      us-dal-wg-110 
- 🇺🇸    USA             Dallas, TX          10.124.0.171  96.44.191.130    2607:fcd0:da80:1803::b35f             10     3171      ❌     Quadranet      ✔️      us-dal-wg-301 
- 🇺🇸    USA             Dallas, TX          10.124.0.193  96.44.191.146    2607:fcd0:da80:1804::f001             10     3193      ❌     Quadranet      ✔️      us-dal-wg-302 
- 🇺🇸    USA             Dallas, TX          10.124.1.175  96.44.189.98     2607:fcd0:da80:1801::c40f             10     3429      ❌     Quadranet      ✔️      us-dal-wg-303 
  🇺🇸    USA             Dallas, TX          10.124.1.226  37.19.200.156    2a02:6ea0:d20c:3::b72f                10     3480      ❌     DataPacket     ✔️      us-dal-wg-401 
  🇺🇸    USA             Dallas, TX          10.124.1.225  37.19.200.143    2a02:6ea0:d20c:2::b71f                10     3479      ❌     DataPacket     ✔️      us-dal-wg-402 
  🇺🇸    USA             Dallas, TX          10.124.1.224  37.19.200.130    2a02:6ea0:d20c:1::f001                10     3478      ❌     DataPacket     ✔️      us-dal-wg-403 
