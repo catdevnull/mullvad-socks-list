@@ -1,4 +1,4 @@
-Date: 2024-08-08 13-00-14 UTC
+Date: 2024-08-08 18-48-48 UTC
 Total active proxies: 463
  flag  country         city                socks5                                            ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155                                      31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -237,7 +237,7 @@ Total active proxies: 463
  🇵🇱    Poland          Warsaw              10.124.1.219                                      45.134.212.66    2a02:6ea0:ce08:1::f001                10     3473      ❌     DataPacket     ✔️      pl-waw-wg-101 
  🇵🇱    Poland          Warsaw              10.124.1.220                                      45.134.212.79    2a02:6ea0:ce08:2::a06f                10     3474      ❌     DataPacket     ✔️      pl-waw-wg-102 
  🇵🇱    Poland          Warsaw              10.124.1.221                                      45.134.212.92    2a02:6ea0:ce08:3::a07f                10     3475      ❌     DataPacket     ✔️      pl-waw-wg-103 
- 🇵🇱    Poland          Warsaw              ;; communications error to 1.1.1.1#53: timed out  45.128.38.226    2a0d:5600:13:67::a01f                 10     3553      ❌     M247           ✔️      pl-waw-wg-201 
+ 🇵🇱    Poland          Warsaw              10.124.2.45                                       45.128.38.226    2a0d:5600:13:67::a01f                 10     3553      ❌     M247           ✔️      pl-waw-wg-201 
  🇵🇱    Poland          Warsaw              10.124.2.46                                       146.70.144.34    2a0d:5600:13:c47::a02f                10     3554      ❌     M247           ✔️      pl-waw-wg-202 
  🇵🇹    Portugal        Lisbon              10.124.0.198                                      149.88.20.206    2a02:6ea0:fb01:1::f001                10     3198      ❌     DataPacket     ✔️      pt-lis-wg-201 
  🇵🇹    Portugal        Lisbon              10.124.0.199                                      149.88.20.193    2a02:6ea0:fb01:2::f002                10     3199      ❌     DataPacket     ✔️      pt-lis-wg-202 
@@ -386,7 +386,7 @@ Total active proxies: 463
  🇺🇸    USA             New York, NY        10.124.1.191                                      143.244.47.78    2a02:6ea0:c43f:1::f001                10     3445      ❌     DataPacket     ✔️      us-nyc-wg-302 
  🇺🇸    USA             New York, NY        10.124.1.192                                      143.244.47.91    2a02:6ea0:c43f:2::b52f                10     3446      ❌     DataPacket     ✔️      us-nyc-wg-303 
  🇺🇸    USA             New York, NY        10.124.1.230                                      198.44.136.34    2607:9000:a000:12::f001               10     3484      ❌     Tzulo          ✔️      us-nyc-wg-401 
- 🇺🇸    USA             New York, NY        10.124.1.231                                      198.44.136.66    2607:9000:a000:13::f001               10     3485      ❌     Tzulo          ✔️      us-nyc-wg-402 
+ 🇺🇸    USA             New York, NY        ;; communications error to 1.1.1.1#53: timed out  198.44.136.66    2607:9000:a000:13::f001               10     3485      ❌     Tzulo          ✔️      us-nyc-wg-402 
  🇺🇸    USA             New York, NY        10.124.1.232                                      198.44.136.98    2607:9000:a000:14::f001               10     3486      ❌     Tzulo          ✔️      us-nyc-wg-403 
  🇺🇸    USA             New York, NY        10.124.0.210                                      198.44.136.194   2607:9000:a000:17::f001               10     3210      ❌     Tzulo          ✔️      us-nyc-wg-404 
  🇺🇸    USA             New York, NY        10.124.0.72                                       146.70.165.2     2a0d:5600:24:2b6::f001                10     3072      ❌     M247           ✔️      us-nyc-wg-501 
