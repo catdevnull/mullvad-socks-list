@@ -13,8 +13,8 @@
 10.124.1.55 Australia/Perth
 10.124.1.57 Australia/Perth
 10.124.0.36 Australia/Sydney
-;; communications error to 1.1.1.1#53: timed out Australia/Sydney
-;; Warning: ID mismatch: expected ID 42240, got 28084 Australia/Sydney
+10.124.0.37 Australia/Sydney
+10.124.0.42 Australia/Sydney
 10.124.0.214 Australia/Sydney
 10.124.0.215 Australia/Sydney
 10.124.0.141 Australia/Sydney
