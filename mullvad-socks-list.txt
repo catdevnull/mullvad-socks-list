@@ -1,5 +1,5 @@
-Date: 2024-08-27 01-57-47 UTC
-Total active proxies: 465
+Date: 2024-08-27 06-48-24 UTC
+Total active proxies: 467
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -233,6 +233,8 @@ Total active proxies: 465
  🇳🇴    Norway          Stavanger           10.124.2.41   194.127.199.93   2a02:20c8:4120::a04f                  10     3549      ✔️     Blix           ✔️      no-svg-wg-004 
  🇳🇿    New Zealand     Auckland            10.124.0.218  103.75.11.50     2404:f780:5:deb::f001                 10     3218      ❌     hostuniversal  ✔️      nz-akl-wg-301 
  🇳🇿    New Zealand     Auckland            10.124.0.219  103.75.11.66     2404:f780:5:dec::c02f                 10     3219      ❌     hostuniversal  ✔️      nz-akl-wg-302 
+ 🇵🇪    Peru            Lima                10.124.1.81   95.173.223.130   2a02:6ea0:5500:1::f001                10     3335      ❌     DataPacket     ✔️      pe-lim-wg-001 
+ 🇵🇪    Peru            Lima                10.124.1.82   95.173.223.159   2a02:6ea0:5500:2::f001                10     3336      ❌     DataPacket     ✔️      pe-lim-wg-002 
  🇵🇱    Poland          Warsaw              10.124.1.219  45.134.212.66    2a02:6ea0:ce08:1::f001                10     3473      ❌     DataPacket     ✔️      pl-waw-wg-101 
  🇵🇱    Poland          Warsaw              10.124.1.220  45.134.212.79    2a02:6ea0:ce08:2::a06f                10     3474      ❌     DataPacket     ✔️      pl-waw-wg-102 
  🇵🇱    Poland          Warsaw              10.124.1.221  45.134.212.92    2a02:6ea0:ce08:3::a07f                10     3475      ❌     DataPacket     ✔️      pl-waw-wg-103 
