@@ -1,5 +1,5 @@
 10.124.0.155 Europe/Tirane
-;; communications error to 1.1.1.1#53: timed out Europe/Tirane
+10.124.0.212 Europe/Tirane
 10.124.2.35 Europe/Vienna
 10.124.2.36 Europe/Vienna
 10.124.2.37 Europe/Vienna
@@ -277,7 +277,7 @@
 10.124.1.244 Asia/Singapore
 10.124.1.245 Asia/Singapore
 10.124.1.246 Asia/Singapore
-;; communications error to 1.1.1.1#53: timed out Asia/Singapore
+10.124.0.100 Asia/Singapore
 10.124.0.102 Asia/Singapore
 10.124.0.248 Europe/Ljubljana
 10.124.0.249 Europe/Ljubljana
