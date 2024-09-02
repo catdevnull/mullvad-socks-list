@@ -303,7 +303,7 @@
 10.124.1.162 America/Chicago
 10.124.0.29 America/New_York
 10.124.0.169 America/New_York
-;; communications error to 1.1.1.1#53: timed out America/New_York
+10.124.0.170 America/New_York
 10.124.0.184 America/New_York
 10.124.0.85 America/New_York
 10.124.0.126 America/New_York
