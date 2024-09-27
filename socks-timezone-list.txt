@@ -72,14 +72,14 @@
 10.124.1.83 Asia/Nicosia
 10.124.1.84 Asia/Nicosia
 10.124.2.33 Europe/Prague
-10.124.2.34 Europe/Prague
+;; communications error to 1.1.1.1#53: timed out Europe/Prague
 10.124.2.57 Europe/Prague
 10.124.2.58 Europe/Prague
 10.124.0.7 Europe/Berlin
 10.124.0.8 Europe/Berlin
 10.124.0.9 Europe/Berlin
 10.124.0.55 Europe/Berlin
-10.124.0.179 Europe/Berlin
+;; Warning: ID mismatch: expected ID 26730, got 6336 Europe/Berlin
 10.124.0.196 Europe/Berlin
 10.124.0.239 Europe/Berlin
 10.124.0.30 Europe/Berlin
@@ -356,7 +356,7 @@
 10.124.2.29 America/Los_Angeles
 10.124.2.30 America/Los_Angeles
 10.124.0.162 America/Los_Angeles
-10.124.0.163 America/Los_Angeles
+;; communications error to 1.1.1.1#53: timed out America/Los_Angeles
 10.124.1.48 America/Los_Angeles
 10.124.1.49 America/Los_Angeles
 10.124.1.50 America/Los_Angeles
