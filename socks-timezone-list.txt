@@ -93,8 +93,8 @@
 10.124.1.24 Europe/Berlin
 10.124.1.25 Europe/Berlin
 10.124.0.240 Europe/Berlin
-10.124.1.243 Europe/Berlin
-10.124.1.238 Europe/Berlin
+;; communications error to 1.1.1.1#53: timed out Europe/Berlin
+;; communications error to 1.1.1.1#53: timed out Europe/Berlin
 10.124.1.239 Europe/Berlin
 10.124.1.240 Europe/Berlin
 10.124.1.241 Europe/Berlin
@@ -133,7 +133,7 @@
 10.124.1.64 Europe/Paris
 10.124.0.45 Europe/Paris
 10.124.1.183 Europe/Paris
-10.124.0.116 Europe/Paris
+;; communications error to 1.1.1.1#53: timed out Europe/Paris
 10.124.0.117 Europe/Paris
 10.124.0.118 Europe/Paris
 10.124.0.119 Europe/Paris
@@ -228,7 +228,7 @@
 10.124.0.245 Europe/Oslo
 10.124.2.38 Europe/Oslo
 10.124.2.39 Europe/Oslo
-10.124.2.40 Europe/Oslo
+;; communications error to 1.1.1.1#53: timed out Europe/Oslo
 10.124.2.41 Europe/Oslo
 10.124.0.218 Pacific/Auckland
 10.124.0.219 Pacific/Auckland
