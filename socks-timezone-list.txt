@@ -160,7 +160,7 @@
 10.124.0.237 Europe/London
 10.124.2.20 Europe/London
 10.124.2.13 Europe/London
-;; communications error to 1.1.1.1#53: timed out Europe/London
+10.124.2.14 Europe/London
 10.124.2.15 Europe/London
 10.124.2.16 Europe/London
 10.124.2.17 Europe/London
@@ -215,7 +215,7 @@
 10.124.1.254 Europe/Amsterdam
 10.124.2.1 Europe/Amsterdam
 10.124.0.6 Europe/Rome
-;; communications error to 1.1.1.1#53: timed out Europe/Rome
+10.124.0.108 Europe/Rome
 10.124.0.109 Europe/Rome
 10.124.0.110 Europe/Rome
 10.124.0.56 Europe/Oslo
