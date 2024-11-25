@@ -210,6 +210,7 @@
 10.124.0.114 Europe/Amsterdam
 10.124.0.94 Europe/Amsterdam
 10.124.0.243 Europe/Amsterdam
+10.124.0.96 Europe/Amsterdam
 10.124.0.19 Europe/Amsterdam
 10.124.0.41 Europe/Amsterdam
 10.124.0.48 Europe/Amsterdam
@@ -428,6 +429,7 @@
 10.124.1.14 America/Chicago
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
+10.124.0.242 America/New_York
 10.124.1.29 America/New_York
 10.124.1.176 America/New_York
 10.124.2.59 Africa/Johannesburg
