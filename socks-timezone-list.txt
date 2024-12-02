@@ -9,8 +9,8 @@
 10.124.0.156 Australia/Adelaide
 10.124.0.220 Australia/Brisbane
 10.124.0.221 Australia/Brisbane
-;; communications error to 1.1.1.1#53: timed out Australia/Melbourne
-;; Warning: ID mismatch: expected ID 28927, got 60098 Australia/Melbourne
+10.124.1.53 Australia/Melbourne
+10.124.1.54 Australia/Melbourne
 10.124.1.55 Australia/Perth
 10.124.1.57 Australia/Perth
 10.124.0.36 Australia/Sydney
@@ -302,9 +302,6 @@
 10.124.0.126 America/New_York
 10.124.0.127 America/Chicago
 10.124.0.197 America/Chicago
-10.124.0.18 America/Chicago
-10.124.0.38 America/Chicago
-10.124.0.46 America/Chicago
 10.124.0.168 America/Chicago
 10.124.0.165 America/Chicago
 10.124.0.188 America/Chicago
