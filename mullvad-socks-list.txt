@@ -1,5 +1,5 @@
-Date: 2024-12-04 02-17-43 UTC
-Total active proxies: 433
+Date: 2024-12-04 06-53-10 UTC
+Total active proxies: 437
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -79,6 +79,7 @@ Total active proxies: 433
  🇨🇿    Czech Republic  Prague              10.124.2.34   146.70.129.130   2001:ac8:33:d::a02f                   10     3542      ❌     M247           ✔️      cz-prg-wg-102 
  🇨🇿    Czech Republic  Prague              10.124.2.57   178.249.209.162  2a02:6ea0:c201:1::f001                10     3565      ❌     DataPacket     ✔️      cz-prg-wg-201 
  🇨🇿    Czech Republic  Prague              10.124.2.58   178.249.209.175  2a02:6ea0:c201:1::f101                10     3566      ❌     DataPacket     ✔️      cz-prg-wg-202 
+ 🇩🇪    Germany         Berlin              10.124.0.7    193.32.248.66    2a03:1b20:b:f011::a01f                20     3007      ✔️     31173          ✔️      de-ber-wg-001 
  🇩🇪    Germany         Berlin              10.124.0.8    193.32.248.67    2a03:1b20:b:f011::a02f                20     3008      ✔️     31173          ✔️      de-ber-wg-002 
  🇩🇪    Germany         Berlin              10.124.0.9    193.32.248.68    2a03:1b20:b:f011::a03f                20     3009      ✔️     31173          ✔️      de-ber-wg-003 
  🇩🇪    Germany         Berlin              10.124.0.55   193.32.248.69    2a03:1b20:b:f011::a04f                20     3055      ✔️     31173          ✔️      de-ber-wg-004 
@@ -89,6 +90,7 @@ Total active proxies: 433
  🇩🇪    Germany         Dusseldorf          10.124.0.91   185.254.75.4     2a03:d9c0:3000::a21f                  10     3091      ❌     xtom           ✔️      de-dus-wg-002 
  🇩🇪    Germany         Dusseldorf          10.124.0.92   185.254.75.5     2a03:d9c0:3000::a22f                  10     3092      ❌     xtom           ✔️      de-dus-wg-003 
  🇩🇪    Germany         Frankfurt           10.124.0.54   185.213.155.74   2a03:1b20:6:f011::f101                20     3054      ✔️     31173          ✔️      de-fra-wg-002 
+ 🇩🇪    Germany         Frankfurt           10.124.1.23   185.209.196.73   2a03:1b20:6:f011::f201                20     3277      ✔️     31173          ✔️      de-fra-wg-003 
  🇩🇪    Germany         Frankfurt           10.124.1.26   185.209.196.74   2a03:1b20:6:f011::f301                20     3280      ✔️     31173          ✔️      de-fra-wg-004 
  🇩🇪    Germany         Frankfurt           10.124.1.27   185.209.196.75   2a03:1b20:6:f011::f401                20     3281      ✔️     31173          ✔️      de-fra-wg-005 
  🇩🇪    Germany         Frankfurt           10.124.0.222  185.209.196.76   2a03:1b20:6:f011::f501                20     3222      ✔️     31173          ✔️      de-fra-wg-006 
@@ -141,6 +143,7 @@ Total active proxies: 433
  🇫🇷    France          Paris               10.124.0.119  193.32.126.69    2a03:1b20:9:f011::f301                20     3119      ✔️     31173          ✔️      fr-par-wg-004 
  🇫🇷    France          Paris               10.124.0.120  193.32.126.70    2a03:1b20:9:f011::f401                20     3120      ✔️     31173          ✔️      fr-par-wg-005 
  🇫🇷    France          Paris               10.124.0.238  193.32.126.84    2a03:1b20:9:f011::f001                20     3238      ✔️     31173          ✔️      fr-par-wg-006 
+ 🇫🇷    France          Paris               10.124.0.142  193.32.126.83    2a03:1b20:9:f011::3f                  20     3142      ✔️     31173          ✔️      fr-par-wg-007 
  🇫🇷    France          Paris               10.124.0.223  146.70.184.2     2001:ac8:25:3a::f001                  10     3223      ❌     M247           ✔️      fr-par-wg-101 
  🇫🇷    France          Paris               10.124.0.224  146.70.184.66    2001:ac8:25:3b::f001                  10     3224      ❌     M247           ✔️      fr-par-wg-102 
  🇫🇷    France          Paris               10.124.1.78   95.173.222.2     2a02:6ea0:1901:2::f001                10     3332      ❌     DataPacket     ✔️      fr-par-wg-301 
@@ -427,6 +430,7 @@ Total active proxies: 433
  🇺🇸    USA             Salt Lake City, UT  10.124.1.12   69.4.234.9       2607:fc98:0:8a::f301                  10     3266      ❌     100TB          ✔️      us-slc-wg-201 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.13   69.4.234.149     2607:fc98:0:8a::f401                  10     3267      ❌     100TB          ✔️      us-slc-wg-202 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.14   69.4.234.131     2607:fc98:0:8a::f501                  10     3268      ❌     100TB          ✔️      us-slc-wg-203 
+ 🇺🇸    USA             Salt Lake City, UT  10.124.1.15   69.4.234.10      2607:fc98:0:8a::f601                  10     3269      ❌     100TB          ✔️      us-slc-wg-204 
  🇺🇸    USA             McAllen, TX         10.124.0.250  79.127.222.194   2a02:6ea0:fe00:1::f001                10     3250      ❌     DataPacket     ✔️      us-txc-wg-001 
  🇺🇸    USA             McAllen, TX         10.124.0.251  79.127.222.207   2a02:6ea0:fe00:2::f001                10     3251      ❌     DataPacket     ✔️      us-txc-wg-002 
  🇺🇸    USA             Secaucus, NJ        10.124.0.242  209.54.101.130   2607:fcd0:ccc0:1d02::b37f             10     3242      ❌     Quadranet      ✔️      us-uyk-wg-101 
