@@ -1,5 +1,5 @@
-Date: 2024-12-11 02-17-13 UTC
-Total active proxies: 439
+Date: 2024-12-11 06-53-07 UTC
+Total active proxies: 438
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -62,7 +62,6 @@ Total active proxies: 439
  🇨🇭    Switzerland     Zurich              10.124.1.214  138.199.6.207    2a02:6ea0:d406:2::a19f                10     3468      ❌     DataPacket     ✔️      ch-zrh-wg-402 
  🇨🇭    Switzerland     Zurich              10.124.1.215  138.199.6.220    2a02:6ea0:d406:3::a20f                10     3469      ❌     DataPacket     ✔️      ch-zrh-wg-403 
  🇨🇭    Switzerland     Zurich              10.124.1.216  138.199.6.233    2a02:6ea0:d406:4::a21f                10     3470      ❌     DataPacket     ✔️      ch-zrh-wg-404 
- 🇨🇭    Switzerland     Zurich              10.124.2.12   146.70.134.98    2001:ac8:28:a7::a36f                  10     3520      ❌     M247           ✔️      ch-zrh-wg-501 
  🇨🇭    Switzerland     Zurich              10.124.2.6    146.70.126.162   2001:ac8:28:a1::f001                  10     3514      ❌     M247           ✔️      ch-zrh-wg-502 
  🇨🇭    Switzerland     Zurich              10.124.2.7    146.70.126.194   2001:ac8:28:a2::f001                  10     3515      ❌     M247           ✔️      ch-zrh-wg-503 
  🇨🇭    Switzerland     Zurich              10.124.2.8    146.70.126.226   2001:ac8:28:a3::f001                  10     3516      ❌     M247           ✔️      ch-zrh-wg-504 
