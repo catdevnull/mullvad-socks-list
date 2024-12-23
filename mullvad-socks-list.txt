@@ -1,5 +1,5 @@
-Date: 2024-12-23 06-50-48 UTC
-Total active proxies: 452
+Date: 2024-12-23 13-03-25 UTC
+Total active proxies: 457
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -183,6 +183,8 @@ Total active proxies: 452
  🇭🇷    Croatia         Zagreb              10.124.0.74   154.47.29.15     2a02:6ea0:f401:2::a01f                10     3074      ❌     DataPacket     ✔️      hr-zag-wg-002 
  🇭🇺    Hungary         Budapest            10.124.0.227  146.70.196.194   2001:ac8:26:55::f001                  10     3227      ❌     M247           ✔️      hu-bud-wg-101 
  🇭🇺    Hungary         Budapest            10.124.0.228  146.70.196.130   2001:ac8:26:54::f001                  10     3228      ❌     M247           ✔️      hu-bud-wg-102 
+ 🇭🇺    Hungary         Budapest            10.124.0.135  79.127.182.130   2a02:6ea0:5700:1::f001                10     3135      ❌     DataPacket     ✔️      hu-bud-wg-201 
+ 🇭🇺    Hungary         Budapest            10.124.0.137  79.127.182.160   2a02:6ea0:5700:2::f001                10     3137      ❌     DataPacket     ✔️      hu-bud-wg-202 
  🇮🇩    Indonesia       Jakarta             10.124.0.254  129.227.46.130   2602:ffe4:c0d:801d::f001              10     3254      ❌     Zenlayer       ✔️      id-jpu-wg-001 
  🇮🇩    Indonesia       Jakarta             10.124.1.1    129.227.46.162   2602:ffe4:c0d:801e::f101              10     3255      ❌     Zenlayer       ✔️      id-jpu-wg-002 
  🇮🇪    Ireland         Dublin              10.124.1.58   146.70.189.2     2001:ac8:88:84::a01f                  10     3312      ❌     M247           ✔️      ie-dub-wg-101 
@@ -286,7 +288,10 @@ Total active proxies: 452
  🇸🇪    Sweden          Stockholm           10.124.0.172  185.65.135.70    2a03:1b20:4:f011::b07f                20     3172      ✔️     31173          ✔️      se-sto-wg-007 
  🇸🇪    Sweden          Stockholm           10.124.0.173  185.65.135.71    2a03:1b20:4:f011::f701                20     3173      ✔️     31173          ✔️      se-sto-wg-008 
  🇸🇪    Sweden          Stockholm           10.124.0.50   185.195.233.69   2a03:1b20:4:f011::a09f                20     3050      ✔️     31173          ✔️      se-sto-wg-009 
+ 🇸🇪    Sweden          Stockholm           10.124.0.61   185.195.233.70   2a03:1b20:4:f011::a10f                20     3061      ✔️     31173          ✔️      se-sto-wg-010 
+ 🇸🇪    Sweden          Stockholm           10.124.0.62   185.195.233.71   2a03:1b20:4:f011::a11f                20     3062      ✔️     31173          ✔️      se-sto-wg-011 
  🇸🇪    Sweden          Stockholm           10.124.0.77   185.195.233.66   2a03:1b20:4:f011::fb01                20     3077      ✔️     31173          ✔️      se-sto-wg-012 
+ 🇸🇪    Sweden          Stockholm           10.124.0.143  185.195.233.67   2a03:1b20:4:f011::fe01                20     3143      ❌     31173          ✔️      se-sto-wg-013 
  🇸🇪    Sweden          Stockholm           10.124.0.80   185.195.233.68   2a03:1b20:4:f011::fd01                20     3080      ✔️     31173          ✔️      se-sto-wg-014 
  🇸🇪    Sweden          Stockholm           10.124.0.46   89.37.63.10      2a02:6ea0:1508:1::f001                40     3046      ❌     DataPacket     ✔️      se-sto-wg-201 
  🇸🇪    Sweden          Stockholm           10.124.0.52   89.37.63.66      2a02:6ea0:1508:2::f001                40     3052      ❌     DataPacket     ✔️      se-sto-wg-202 
