@@ -215,7 +215,6 @@
 10.124.0.39 Europe/Amsterdam
 10.124.0.40 Europe/Amsterdam
 10.124.0.113 Europe/Amsterdam
-10.124.0.114 Europe/Amsterdam
 10.124.0.94 Europe/Amsterdam
 10.124.0.243 Europe/Amsterdam
 10.124.0.96 Europe/Amsterdam
@@ -367,8 +366,8 @@
 10.124.1.193 America/Chicago
 10.124.1.194 America/Chicago
 10.124.1.195 America/Chicago
-10.124.0.180 America/Los_Angeles
-10.124.0.181 America/Los_Angeles
+;; communications error to 1.1.1.1#53: timed out America/Los_Angeles
+;; Warning: ID mismatch: expected ID 39015, got 32928 America/Los_Angeles
 10.124.0.182 America/Los_Angeles
 10.124.0.83 America/Los_Angeles
 10.124.2.29 America/Los_Angeles
