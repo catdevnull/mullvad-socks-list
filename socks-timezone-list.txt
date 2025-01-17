@@ -232,7 +232,7 @@
 10.124.0.244 Europe/Oslo
 10.124.0.245 Europe/Oslo
 10.124.2.38 Europe/Oslo
-;; communications error to 1.1.1.1#53: timed out Europe/Oslo
+10.124.2.39 Europe/Oslo
 10.124.2.40 Europe/Oslo
 10.124.2.41 Europe/Oslo
 10.124.0.218 Pacific/Auckland
@@ -284,7 +284,6 @@
 10.124.0.172 Europe/Stockholm
 10.124.0.173 Europe/Stockholm
 10.124.0.50 Europe/Stockholm
-10.124.0.61 Europe/Stockholm
 10.124.0.62 Europe/Stockholm
 10.124.0.77 Europe/Stockholm
 10.124.0.143 Europe/Stockholm
