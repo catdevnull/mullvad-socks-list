@@ -1,4 +1,4 @@
-Date: 2025-01-21 06-49-15 UTC
+Date: 2025-01-21 13-02-59 UTC
 Total active proxies: 477
  flag  country         city                socks5                                            ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155                                      31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
@@ -235,10 +235,10 @@ Total active proxies: 477
  🇳🇴    Norway          Oslo                10.124.0.244                                      91.90.44.15      2a02:20c8:4124::f701                  10     3244      ✔️     Blix           ✔️      no-osl-wg-007 
  🇳🇴    Norway          Oslo                10.124.0.245                                      91.90.44.18      2a02:20c8:4124::f801                  10     3245      ✔️     Blix           ✔️      no-osl-wg-008 
  🇳🇴    Norway          Stavanger           10.124.2.38                                       194.127.199.2    2a02:20c8:4120::a01f                  10     3546      ✔️     Blix           ✔️      no-svg-wg-001 
- 🇳🇴    Norway          Stavanger           ;; communications error to 1.1.1.1#53: timed out  194.127.199.31   2a02:20c8:4120::a02f                  10     3547      ✔️     Blix           ✔️      no-svg-wg-002 
+ 🇳🇴    Norway          Stavanger           10.124.2.39                                       194.127.199.31   2a02:20c8:4120::a02f                  10     3547      ✔️     Blix           ✔️      no-svg-wg-002 
  🇳🇴    Norway          Stavanger           10.124.2.40                                       194.127.199.62   2a02:20c8:4120::a03f                  10     3548      ✔️     Blix           ✔️      no-svg-wg-003 
  🇳🇴    Norway          Stavanger           10.124.2.41                                       194.127.199.93   2a02:20c8:4120::a04f                  10     3549      ✔️     Blix           ✔️      no-svg-wg-004 
- 🇳🇿    New Zealand     Auckland            10.124.0.218                                      103.75.11.50     2404:f780:5:deb::f001                 10     3218      ❌     hostuniversal  ✔️      nz-akl-wg-301 
+ 🇳🇿    New Zealand     Auckland            ;; communications error to 1.1.1.1#53: timed out  103.75.11.50     2404:f780:5:deb::f001                 10     3218      ❌     hostuniversal  ✔️      nz-akl-wg-301 
  🇳🇿    New Zealand     Auckland            10.124.0.219                                      103.75.11.66     2404:f780:5:dec::c02f                 10     3219      ❌     hostuniversal  ✔️      nz-akl-wg-302 
  🇵🇪    Peru            Lima                10.124.1.81                                       95.173.223.130   2a02:6ea0:5500:1::f001                10     3335      ❌     DataPacket     ✔️      pe-lim-wg-001 
  🇵🇪    Peru            Lima                10.124.1.82                                       95.173.223.159   2a02:6ea0:5500:2::f001                10     3336      ❌     DataPacket     ✔️      pe-lim-wg-002 
