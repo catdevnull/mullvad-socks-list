@@ -61,8 +61,8 @@
 10.124.1.216 Europe/Zurich
 10.124.2.12 Europe/Zurich
 10.124.2.6 Europe/Zurich
-;; communications error to 1.1.1.1#53: timed out Europe/Zurich
-;; Warning: ID mismatch: expected ID 34798, got 4687 Europe/Zurich
+10.124.2.7 Europe/Zurich
+10.124.2.8 Europe/Zurich
 10.124.2.9 Europe/Zurich
 10.124.2.10 Europe/Zurich
 10.124.2.11 Europe/Zurich
@@ -466,7 +466,7 @@
 10.124.1.15 America/Chicago
 10.124.0.250 America/Chicago
 10.124.0.251 America/Chicago
-;; communications error to 1.1.1.1#53: timed out America/New_York
-;; Warning: ID mismatch: expected ID 42426, got 51954 America/New_York
+10.124.1.29 America/New_York
+10.124.1.176 America/New_York
 10.124.2.59 Africa/Johannesburg
 10.124.2.60 Africa/Johannesburg
