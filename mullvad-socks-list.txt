@@ -1,5 +1,5 @@
-Date: 2025-02-07 06-49-52 UTC
-Total active proxies: 471
+Date: 2025-02-07 13-02-15 UTC
+Total active proxies: 473
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -86,9 +86,11 @@ Total active proxies: 471
  🇩🇪    Germany         Berlin              10.124.0.179  193.32.248.70    2a03:1b20:b:f011::a05f                20     3179      ✔️     31173          ✔️      de-ber-wg-005 
  🇩🇪    Germany         Berlin              10.124.0.196  193.32.248.71    2a03:1b20:b:f011::a06f                20     3196      ✔️     31173          ✔️      de-ber-wg-006 
  🇩🇪    Germany         Berlin              10.124.0.239  193.32.248.75    2a03:1b20:b:f011::f701                20     3239      ✔️     31173          ✔️      de-ber-wg-007 
+ 🇩🇪    Germany         Berlin              10.124.0.101  193.32.248.74    2a03:1b20:b:f011::f801                20     3101      ✔️     31173          ✔️      de-ber-wg-008 
  🇩🇪    Germany         Dusseldorf          10.124.0.30   185.254.75.3     2a03:d9c0:3000::a20f                  10     3030      ❌     xtom           ✔️      de-dus-wg-001 
  🇩🇪    Germany         Dusseldorf          10.124.0.91   185.254.75.4     2a03:d9c0:3000::a21f                  10     3091      ❌     xtom           ✔️      de-dus-wg-002 
  🇩🇪    Germany         Dusseldorf          10.124.0.92   185.254.75.5     2a03:d9c0:3000::a22f                  10     3092      ❌     xtom           ✔️      de-dus-wg-003 
+ 🇩🇪    Germany         Frankfurt           10.124.0.53   185.213.155.73   2a03:1b20:6:f011::f001                20     3053      ✔️     31173          ✔️      de-fra-wg-001 
  🇩🇪    Germany         Frankfurt           10.124.0.54   185.213.155.74   2a03:1b20:6:f011::f101                20     3054      ✔️     31173          ✔️      de-fra-wg-002 
  🇩🇪    Germany         Frankfurt           10.124.1.23   185.209.196.73   2a03:1b20:6:f011::f201                20     3277      ✔️     31173          ✔️      de-fra-wg-003 
  🇩🇪    Germany         Frankfurt           10.124.1.26   185.209.196.74   2a03:1b20:6:f011::f301                20     3280      ✔️     31173          ✔️      de-fra-wg-004 
@@ -171,6 +173,7 @@ Total active proxies: 471
  🇬🇧    UK              Manchester          10.124.2.16   146.70.132.226   2001:ac8:8b:29::f001                  10     3524      ❌     M247           ✔️      gb-mnc-wg-005 
  🇬🇧    UK              Manchester          10.124.2.17   146.70.133.2     2001:ac8:8b:2a::f001                  10     3525      ❌     M247           ✔️      gb-mnc-wg-006 
  🇬🇧    UK              Manchester          10.124.2.18   146.70.133.34    2001:ac8:8b:2b::f001                  10     3526      ❌     M247           ✔️      gb-mnc-wg-007 
+ 🇬🇧    UK              Manchester          10.124.2.19   146.70.133.66    2001:ac8:8b:2c::f001                  10     3527      ❌     M247           ✔️      gb-mnc-wg-008 
  🇬🇷    Greece          Athens              10.124.0.159  149.102.246.2    2a02:6ea0:f501:2::f001                10     3159      ❌     DataPacket     ✔️      gr-ath-wg-101 
  🇬🇷    Greece          Athens              10.124.0.166  149.102.246.15   2a02:6ea0:f501:3::f001                10     3166      ❌     DataPacket     ✔️      gr-ath-wg-102 
  🇭🇰    Hong Kong       Hong Kong           10.124.1.237  103.125.233.18   2403:2c81:1000::a06f                  10     3491      ❌     xtom           ✔️      hk-hkg-wg-201 
@@ -288,6 +291,7 @@ Total active proxies: 471
  🇸🇪    Sweden          Stockholm           10.124.0.172  185.65.135.70    2a03:1b20:4:f011::b07f                20     3172      ✔️     31173          ✔️      se-sto-wg-007 
  🇸🇪    Sweden          Stockholm           10.124.0.173  185.65.135.71    2a03:1b20:4:f011::f701                20     3173      ✔️     31173          ✔️      se-sto-wg-008 
  🇸🇪    Sweden          Stockholm           10.124.0.50   185.195.233.69   2a03:1b20:4:f011::a09f                20     3050      ✔️     31173          ✔️      se-sto-wg-009 
+ 🇸🇪    Sweden          Stockholm           10.124.0.61   185.195.233.70   2a03:1b20:4:f011::a10f                20     3061      ✔️     31173          ✔️      se-sto-wg-010 
  🇸🇪    Sweden          Stockholm           10.124.0.62   185.195.233.71   2a03:1b20:4:f011::a11f                20     3062      ✔️     31173          ✔️      se-sto-wg-011 
  🇸🇪    Sweden          Stockholm           10.124.0.77   185.195.233.66   2a03:1b20:4:f011::fb01                20     3077      ✔️     31173          ✔️      se-sto-wg-012 
  🇸🇪    Sweden          Stockholm           10.124.0.143  185.195.233.67   2a03:1b20:4:f011::fe01                20     3143      ✔️     31173          ✔️      se-sto-wg-013 
@@ -352,9 +356,6 @@ Total active proxies: 471
  🇺🇸    USA             Dallas, TX          10.124.1.11   206.217.206.107  2606:2e00:8007:a:ae1f:6bff:fef5:7983  10     3265      ❌     100TB          ✔️      us-dal-wg-505 
  🇺🇸    USA             Dallas, TX          10.124.1.85   206.217.206.4    2606:2e00:8007:a:ae1f:6bff:fef5:7b8d  10     3339      ❌     100TB          ✔️      us-dal-wg-506 
  🇺🇸    USA             Dallas, TX          10.124.1.86   206.217.206.16   2606:2e00:8007:a:ae1f:6bff:fef5:7b27  10     3340      ❌     100TB          ✔️      us-dal-wg-507 
- 🇺🇸    USA             Denver, CO          10.124.0.175  198.44.128.194   2607:9000:2000:16::f001               10     3175      ❌     Tzulo          ✔️      us-den-wg-001 
- 🇺🇸    USA             Denver, CO          10.124.0.176  198.44.128.162   2607:9000:2000:15::f001               10     3176      ❌     Tzulo          ✔️      us-den-wg-002 
- 🇺🇸    USA             Denver, CO          10.124.0.177  198.44.128.130   2607:9000:2000:14::a46f               10     3177      ❌     Tzulo          ✔️      us-den-wg-003 
  🇺🇸    USA             Denver, CO          10.124.1.196  37.19.210.1      2a02:6ea0:d70a::b57f                  10     3450      ❌     DataPacket     ✔️      us-den-wg-101 
  🇺🇸    USA             Denver, CO          10.124.1.197  37.19.210.14     2a02:6ea0:d70a:1::b58f                10     3451      ❌     DataPacket     ✔️      us-den-wg-102 
  🇺🇸    USA             Denver, CO          10.124.1.198  37.19.210.27     2a02:6ea0:d70a:2::b59f                10     3452      ❌     DataPacket     ✔️      us-den-wg-103 
@@ -398,6 +399,12 @@ Total active proxies: 471
  🇺🇸    USA             New York, NY        10.124.1.190  143.244.47.65    2a02:6ea0:c43f::f001                  10     3444      ❌     DataPacket     ✔️      us-nyc-wg-301 
  🇺🇸    USA             New York, NY        10.124.1.191  143.244.47.78    2a02:6ea0:c43f:1::f001                10     3445      ❌     DataPacket     ✔️      us-nyc-wg-302 
  🇺🇸    USA             New York, NY        10.124.1.192  143.244.47.91    2a02:6ea0:c43f:2::b52f                10     3446      ❌     DataPacket     ✔️      us-nyc-wg-303 
+ 🇺🇸    USA             New York, NY        10.124.1.230  198.44.136.34    2607:9000:a000:12::f001               10     3484      ❌     Tzulo          ✔️      us-nyc-wg-401 
+ 🇺🇸    USA             New York, NY        10.124.1.231  198.44.136.66    2607:9000:a000:13::f001               10     3485      ❌     Tzulo          ✔️      us-nyc-wg-402 
+ 🇺🇸    USA             New York, NY        10.124.1.232  198.44.136.98    2607:9000:a000:14::f001               10     3486      ❌     Tzulo          ✔️      us-nyc-wg-403 
+ 🇺🇸    USA             New York, NY        10.124.0.210  198.44.136.194   2607:9000:a000:17::f001               10     3210      ❌     Tzulo          ✔️      us-nyc-wg-404 
+ 🇺🇸    USA             New York, NY        10.124.0.103  198.44.136.130   2607:9000:a000:15::f001               10     3103      ❌     Tzulo          ✔️      us-nyc-wg-405 
+ 🇺🇸    USA             New York, NY        10.124.0.104  198.44.136.162   2607:9000:a000:16::f001               10     3104      ❌     Tzulo          ✔️      us-nyc-wg-406 
  🇺🇸    USA             New York, NY        10.124.0.72   146.70.165.2     2a0d:5600:24:2b6::f001                10     3072      ❌     M247           ✔️      us-nyc-wg-501 
  🇺🇸    USA             New York, NY        10.124.0.75   146.70.165.130   2a0d:5600:24:2b8::f001                10     3075      ❌     M247           ✔️      us-nyc-wg-502 
  🇺🇸    USA             New York, NY        10.124.0.76   146.70.165.194   2a0d:5600:24:2b9::f001                10     3076      ❌     M247           ✔️      us-nyc-wg-503 
@@ -422,11 +429,6 @@ Total active proxies: 471
  🇺🇸    USA             Ashburn, VA         10.124.2.22   185.156.46.130   2a02:6ea0:e206:1::a01f                10     3530      ❌     DataPacket     ✔️      us-qas-wg-101 
  🇺🇸    USA             Ashburn, VA         10.124.2.23   185.156.46.143   2a02:6ea0:e206:2::a02f                10     3531      ❌     DataPacket     ✔️      us-qas-wg-102 
  🇺🇸    USA             Ashburn, VA         10.124.2.24   185.156.46.156   2a02:6ea0:e206:3::a03f                10     3532      ❌     DataPacket     ✔️      us-qas-wg-103 
- 🇺🇸    USA             Raleigh, NC         10.124.0.10   198.54.130.82    2607:9000:4000:15::b83f               1      3010      ❌     Tzulo          ✔️      us-rag-wg-101 
- 🇺🇸    USA             Raleigh, NC         10.124.0.12   198.54.130.98    2607:9000:4000:16::b84f               1      3012      ❌     Tzulo          ✔️      us-rag-wg-102 
- 🇺🇸    USA             Raleigh, NC         10.124.0.22   198.54.130.114   2607:9000:4000:17::b85f               1      3022      ❌     Tzulo          ✔️      us-rag-wg-103 
- 🇺🇸    USA             Raleigh, NC         10.124.0.24   198.54.130.130   2607:9000:4000:18::f001               1      3024      ❌     Tzulo          ✔️      us-rag-wg-104 
- 🇺🇸    USA             Raleigh, NC         10.124.0.26   198.54.130.146   2607:9000:4000:19::f001               1      3026      ❌     Tzulo          ✔️      us-rag-wg-105 
  🇺🇸    USA             Raleigh, NC         10.124.1.41   23.234.76.2      2607:9000:4000:31::f001               10     3295      ❌     Tzulo          ✔️      us-rag-wg-201 
  🇺🇸    USA             Raleigh, NC         10.124.1.42   23.234.76.127    2607:9000:4000:32::f001               10     3296      ❌     Tzulo          ✔️      us-rag-wg-202 
  🇺🇸    USA             Raleigh, NC         10.124.1.43   23.234.77.2      2607:9000:4000:33::f001               10     3297      ❌     Tzulo          ✔️      us-rag-wg-203 
