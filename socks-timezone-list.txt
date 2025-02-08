@@ -70,7 +70,7 @@
 10.124.1.21 America/Santiago
 10.124.0.216 America/Bogota
 10.124.0.217 America/Bogota
-;; communications error to 1.1.1.1#53: timed out Asia/Nicosia
+10.124.1.83 Asia/Nicosia
 10.124.1.84 Asia/Nicosia
 10.124.2.33 Europe/Prague
 10.124.2.34 Europe/Prague
@@ -169,9 +169,9 @@
 10.124.2.15 Europe/London
 10.124.2.16 Europe/London
 10.124.2.17 Europe/London
-10.124.2.18 Europe/London
+;; communications error to 1.1.1.1#53: timed out Europe/London
 10.124.2.19 Europe/London
-10.124.0.159 Europe/Athens
+;; Warning: ID mismatch: expected ID 2974, got 45347 Europe/Athens
 10.124.0.166 Europe/Athens
 10.124.1.237 Asia/Hong_Kong
 10.124.0.192 Asia/Hong_Kong
@@ -274,8 +274,8 @@
 10.124.0.185 Europe/Stockholm
 10.124.0.18 Europe/Stockholm
 10.124.0.38 Europe/Stockholm
-10.124.0.189 Europe/Stockholm
-10.124.0.190 Europe/Stockholm
+;; communications error to 1.1.1.1#53: timed out Europe/Stockholm
+;; Warning: ID mismatch: expected ID 10485, got 62351 Europe/Stockholm
 10.124.0.191 Europe/Stockholm
 10.124.1.80 Europe/Stockholm
 10.124.1.77 Europe/Stockholm
