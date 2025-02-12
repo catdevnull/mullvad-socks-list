@@ -226,7 +226,7 @@
 10.124.0.41 Europe/Amsterdam
 10.124.0.48 Europe/Amsterdam
 10.124.1.253 Europe/Amsterdam
-10.124.1.254 Europe/Amsterdam
+;; communications error to 1.1.1.1#53: timed out Europe/Amsterdam
 10.124.2.1 Europe/Amsterdam
 10.124.0.6 Europe/Oslo
 10.124.0.108 Europe/Oslo
@@ -356,7 +356,7 @@
 10.124.1.86 America/Chicago
 10.124.1.196 America/Denver
 10.124.1.197 America/Denver
-10.124.1.198 America/Denver
+;; communications error to 1.1.1.1#53: timed out America/Denver
 10.124.0.147 America/Chicago
 10.124.0.148 America/Chicago
 10.124.0.149 America/Chicago
