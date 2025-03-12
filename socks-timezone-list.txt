@@ -221,8 +221,8 @@
 10.124.0.97 Africa/Lagos
 10.124.0.98 Africa/Lagos
 10.124.0.4 Europe/Amsterdam
-;; communications error to 1.1.1.1#53: timed out Europe/Amsterdam
-;; Warning: ID mismatch: expected ID 11582, got 10718 Europe/Amsterdam
+10.124.0.39 Europe/Amsterdam
+10.124.0.40 Europe/Amsterdam
 10.124.0.113 Europe/Amsterdam
 10.124.0.114 Europe/Amsterdam
 10.124.0.94 Europe/Amsterdam
