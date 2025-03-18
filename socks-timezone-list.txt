@@ -62,7 +62,7 @@
 10.124.0.241 Europe/Zurich
 10.124.0.105 Europe/Zurich
 10.124.0.106 Europe/Zurich
-;; communications error to 1.1.1.1#53: timed out Europe/Zurich
+10.124.1.213 Europe/Zurich
 10.124.1.214 Europe/Zurich
 10.124.1.215 Europe/Zurich
 10.124.1.216 Europe/Zurich
