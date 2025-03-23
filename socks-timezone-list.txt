@@ -323,9 +323,9 @@
 10.124.1.71 Europe/Istanbul
 10.124.1.72 Europe/Istanbul
 10.124.0.25 Europe/Kyiv
-10.124.0.195 Europe/Kyiv
+;; communications error to 1.1.1.1#53: timed out Europe/Kyiv
 10.124.1.233 America/New_York
-10.124.1.234 America/New_York
+;; Warning: ID mismatch: expected ID 28816, got 49313 America/New_York
 10.124.0.29 America/Los_Angeles
 10.124.0.169 America/Los_Angeles
 10.124.0.170 America/Los_Angeles
