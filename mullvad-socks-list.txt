@@ -1,5 +1,5 @@
-Date: 2025-03-25 02-14-58 UTC
-Total active proxies: 485
+Date: 2025-03-25 06-52-01 UTC
+Total active proxies: 484
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -479,7 +479,6 @@ Total active proxies: 485
  🇺🇸    USA             Salt Lake City, UT  10.124.1.15   69.4.234.10      2607:fc98:0:8a::f601                  10     3269      ❌     100TB          ✔️      us-slc-wg-204 
  🇺🇸    USA             McAllen, TX         10.124.0.250  79.127.222.194   2a02:6ea0:fe00:1::f001                10     3250      ❌     DataPacket     ✔️      us-txc-wg-001 
  🇺🇸    USA             McAllen, TX         10.124.0.251  79.127.222.207   2a02:6ea0:fe00:2::f001                10     3251      ❌     DataPacket     ✔️      us-txc-wg-002 
- 🇺🇸    USA             Secaucus, NJ        10.124.0.242  209.54.101.130   2607:fcd0:ccc0:1d02::b37f             10     3242      ❌     Quadranet      ✔️      us-uyk-wg-101 
  🇺🇸    USA             Secaucus, NJ        10.124.1.29   104.223.118.34   2607:fcd0:ccc0:1d03::b38f             10     3283      ❌     Quadranet      ✔️      us-uyk-wg-102 
  🇺🇸    USA             Secaucus, NJ        10.124.1.176  173.205.85.34    2607:fcd0:ccc0:1d05::c41f             10     3430      ❌     Quadranet      ✔️      us-uyk-wg-103 
  🇺🇸    USA             Washington DC       10.124.1.108  185.213.193.3    2604:980:1002:11::f001                10     3362      ❌     Zenlayer       ✔️      us-was-wg-001 
