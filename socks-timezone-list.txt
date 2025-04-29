@@ -258,8 +258,6 @@
 10.124.2.46 Europe/Warsaw
 10.124.0.198 Europe/Lisbon
 10.124.0.199 Europe/Lisbon
-10.124.1.75 Europe/Lisbon
-10.124.1.76 Europe/Lisbon
 10.124.2.27 Europe/Bucharest
 10.124.0.93 Europe/Bucharest
 10.124.0.33 Europe/Belgrade
@@ -401,7 +399,7 @@
 10.124.1.123 America/Los_Angeles
 10.124.1.124 America/Los_Angeles
 10.124.1.125 America/Los_Angeles
-10.124.0.22 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
 10.124.0.24 America/Chicago
 10.124.0.26 America/Chicago
 10.124.0.207 America/Chicago
