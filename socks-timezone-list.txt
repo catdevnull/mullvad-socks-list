@@ -80,9 +80,9 @@
 10.124.1.20 America/Santiago
 10.124.1.21 America/Santiago
 10.124.0.216 America/Bogota
-10.124.0.217 America/Bogota
-10.124.1.83 Asia/Nicosia
-10.124.1.84 Asia/Nicosia
+;; communications error to 1.1.1.1#53: timed out America/Bogota
+;; communications error to 1.1.1.1#53: timed out Asia/Nicosia
+;; communications error to 1.1.1.1#53: timed out Asia/Nicosia
 10.124.2.33 Europe/Prague
 10.124.2.34 Europe/Prague
 10.124.2.57 Europe/Prague
@@ -141,6 +141,7 @@
 10.124.2.54 Europe/Helsinki
 10.124.2.55 Europe/Helsinki
 10.124.2.56 Europe/Helsinki
+10.124.1.63 Europe/Paris
 10.124.1.64 Europe/Paris
 10.124.0.45 Europe/Paris
 10.124.1.183 Europe/Paris
@@ -310,7 +311,6 @@
 10.124.0.57 Europe/Stockholm
 10.124.0.58 Europe/Stockholm
 10.124.0.79 Europe/Stockholm
-10.124.0.115 Europe/Stockholm
 10.124.0.128 Europe/Stockholm
 10.124.0.129 Europe/Stockholm
 10.124.0.130 Europe/Stockholm
