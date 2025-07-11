@@ -1,5 +1,5 @@
-Date: 2025-07-11 02-35-19 UTC
-Total active proxies: 529
+Date: 2025-07-11 06-58-03 UTC
+Total active proxies: 526
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.0.155  31.171.153.66    2a04:27c0:0:3::f001                   10     3155      ❌     iRegister      ✔️      al-tia-wg-001 
  🇦🇱    Albania         Tirana              10.124.0.212  31.171.154.50    2a04:27c0:0:4::f001                   10     3212      ❌     iRegister      ✔️      al-tia-wg-002 
@@ -67,8 +67,6 @@ Total active proxies: 529
  🇨🇭    Switzerland     Zurich              10.124.0.124  193.32.127.69    2a03:1b20:a:f011::f301                20     3124      ✔️     31173          ✔️      ch-zrh-wg-004 
  🇨🇭    Switzerland     Zurich              10.124.0.125  193.32.127.70    2a03:1b20:a:f011::f401                20     3125      ✔️     31173          ✔️      ch-zrh-wg-005 
  🇨🇭    Switzerland     Zurich              10.124.0.241  193.32.127.84    2a03:1b20:a:f011::f601                20     3241      ✔️     31173          ✔️      ch-zrh-wg-006 
- 🇨🇭    Switzerland     Zurich              10.124.0.105  179.43.189.66    2a02:29b8:dc01:1832::a1f              10     3105      ❌     PrivateLayer   ✔️      ch-zrh-wg-201 
- 🇨🇭    Switzerland     Zurich              10.124.0.106  46.19.136.226    2a02:29b8:dc01:1831::f002             10     3106      ❌     PrivateLayer   ✔️      ch-zrh-wg-202 
  🇨🇭    Switzerland     Zurich              10.124.1.213  138.199.6.194    2a02:6ea0:d406:1::a18f                10     3467      ❌     DataPacket     ✔️      ch-zrh-wg-401 
  🇨🇭    Switzerland     Zurich              10.124.1.214  138.199.6.207    2a02:6ea0:d406:2::a19f                10     3468      ❌     DataPacket     ✔️      ch-zrh-wg-402 
  🇨🇭    Switzerland     Zurich              10.124.1.215  138.199.6.220    2a02:6ea0:d406:3::a20f                10     3469      ❌     DataPacket     ✔️      ch-zrh-wg-403 
@@ -242,7 +240,6 @@ Total active proxies: 529
  🇳🇴    Norway          Oslo                10.124.0.108  176.125.235.72   2a02:20c8:4124::a02f                  10     3108      ✔️     Blix           ✔️      no-osl-wg-002 
  🇳🇴    Norway          Oslo                10.124.0.109  176.125.235.73   2a02:20c8:4124::a03f                  10     3109      ✔️     Blix           ✔️      no-osl-wg-003 
  🇳🇴    Norway          Oslo                10.124.0.110  176.125.235.74   2a02:20c8:4124::a04f                  10     3110      ✔️     Blix           ✔️      no-osl-wg-004 
- 🇳🇴    Norway          Oslo                10.124.0.56   178.255.149.140  2a02:20c8:4124::f401                  10     3056      ✔️     Blix           ✔️      no-osl-wg-005 
  🇳🇴    Norway          Oslo                10.124.0.136  178.255.149.165  2a02:20c8:4124::f501                  10     3136      ✔️     Blix           ✔️      no-osl-wg-006 
  🇳🇴    Norway          Oslo                10.124.0.244  91.90.44.15      2a02:20c8:4124::f701                  10     3244      ✔️     Blix           ✔️      no-osl-wg-007 
  🇳🇴    Norway          Oslo                10.124.0.245  91.90.44.18      2a02:20c8:4124::f801                  10     3245      ✔️     Blix           ✔️      no-osl-wg-008 

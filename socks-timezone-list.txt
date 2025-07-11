@@ -64,8 +64,6 @@
 10.124.0.124 Europe/Zurich
 10.124.0.125 Europe/Zurich
 10.124.0.241 Europe/Zurich
-10.124.0.105 Europe/Zurich
-10.124.0.106 Europe/Zurich
 10.124.1.213 Europe/Zurich
 10.124.1.214 Europe/Zurich
 10.124.1.215 Europe/Zurich
@@ -239,7 +237,6 @@
 10.124.0.108 Europe/Oslo
 10.124.0.109 Europe/Oslo
 10.124.0.110 Europe/Oslo
-10.124.0.56 Europe/Oslo
 10.124.0.136 Europe/Oslo
 10.124.0.244 Europe/Oslo
 10.124.0.245 Europe/Oslo
