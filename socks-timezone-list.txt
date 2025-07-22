@@ -93,7 +93,7 @@
 10.124.0.179 Europe/Berlin
 10.124.0.196 Europe/Berlin
 10.124.0.239 Europe/Berlin
-;; communications error to 1.1.1.1#53: timed out Europe/Berlin
+10.124.0.101 Europe/Berlin
 10.124.0.30 Europe/Berlin
 10.124.0.91 Europe/Berlin
 10.124.0.92 Europe/Berlin
@@ -489,10 +489,6 @@
 10.124.1.105 America/Chicago
 10.124.1.106 America/Chicago
 10.124.1.107 America/Chicago
-10.124.0.78 America/Los_Angeles
-10.124.0.69 America/Los_Angeles
-10.124.0.70 America/Los_Angeles
-10.124.1.209 America/Los_Angeles
 10.124.1.210 America/Los_Angeles
 10.124.1.211 America/Los_Angeles
 10.124.1.6 America/Los_Angeles
