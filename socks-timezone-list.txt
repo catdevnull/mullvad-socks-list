@@ -30,6 +30,9 @@
 10.124.0.194 America/Sao_Paulo
 10.124.2.31 America/Sao_Paulo
 10.124.2.32 America/Sao_Paulo
+10.124.2.2 Europe/London
+10.124.2.21 Europe/London
+10.124.2.52 Europe/London
 10.124.0.231 America/Toronto
 10.124.0.232 America/Toronto
 10.124.0.233 America/Toronto
@@ -123,7 +126,6 @@
 10.124.0.138 Europe/Tallinn
 10.124.0.139 Europe/Tallinn
 10.124.0.140 Europe/Tallinn
-10.124.1.69 Europe/Madrid
 10.124.1.70 Europe/Madrid
 10.124.1.223 Europe/Madrid
 10.124.1.222 Europe/Madrid
@@ -325,8 +327,8 @@
 10.124.1.132 America/Chicago
 10.124.1.133 America/Chicago
 10.124.1.134 America/Chicago
-;; communications error to 1.1.1.1#53: timed out America/Chicago
-;; Warning: ID mismatch: expected ID 15247, got 21674 America/Chicago
+10.124.1.135 America/Chicago
+10.124.1.136 America/Chicago
 10.124.1.137 America/Chicago
 10.124.0.85 America/New_York
 10.124.0.126 America/New_York
