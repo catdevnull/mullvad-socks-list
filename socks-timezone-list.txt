@@ -53,8 +53,8 @@
 10.124.0.67 America/Toronto
 10.124.0.68 America/Toronto
 10.124.0.15 America/Toronto
-10.124.0.81 America/Toronto
-10.124.1.110 America/Toronto
+;; communications error to 1.1.1.1#53: timed out America/Toronto
+;; Warning: ID mismatch: expected ID 30148, got 62060 America/Toronto
 10.124.1.111 America/Toronto
 10.124.1.112 America/Toronto
 10.124.1.113 America/Toronto
