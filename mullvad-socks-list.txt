@@ -1,5 +1,5 @@
-Date: 2025-09-25 02-13-38 UTC
-Total active proxies: 533
+Date: 2025-09-25 06-54-02 UTC
+Total active proxies: 535
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.204.123.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.204.123.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -159,6 +159,8 @@ Total active proxies: 533
  🇫🇷    France          Paris               10.124.0.224  146.70.184.66    2001:ac8:25:3b::f001                  10     3224      ❌     M247           ✔️      fr-par-wg-102 
  🇫🇷    France          Paris               10.124.1.78   95.173.222.2     2a02:6ea0:1901:2::f001                10     3332      ❌     DataPacket     ✔️      fr-par-wg-301 
  🇫🇷    France          Paris               10.124.1.79   95.173.222.31    2a02:6ea0:1901:3::f001                10     3333      ❌     DataPacket     ✔️      fr-par-wg-302 
+ 🇬🇧    UK              Glasgow             10.124.0.246  185.201.188.3    2a06:3040:d:410::f001                 10     3246      ❌     HostRoyale     ✔️      gb-glw-wg-001 
+ 🇬🇧    UK              Glasgow             10.124.0.247  185.201.188.33   2a06:3040:d:410::f101                 10     3247      ❌     HostRoyale     ✔️      gb-glw-wg-002 
  🇬🇧    UK              London              10.124.0.59   141.98.252.130   2a03:1b20:7:f011::a01f                20     3059      ✔️     31173          ✔️      gb-lon-wg-001 
  🇬🇧    UK              London              10.124.1.16   185.195.232.66   2a03:1b20:7:f011::a11f                20     3270      ✔️     31173          ✔️      gb-lon-wg-003 
  🇬🇧    UK              London              10.124.1.17   185.195.232.67   2a03:1b20:7:f011::a12f                20     3271      ✔️     31173          ✔️      gb-lon-wg-004 
