@@ -43,6 +43,7 @@
 10.124.0.171 America/Toronto
 10.124.1.235 America/Toronto
 10.124.1.236 America/Toronto
+10.124.0.81 America/Toronto
 10.124.1.110 America/Toronto
 10.124.1.111 America/Toronto
 10.124.1.112 America/Toronto
@@ -90,8 +91,8 @@
 10.124.0.179 Europe/Berlin
 10.124.0.196 Europe/Berlin
 10.124.0.239 Europe/Berlin
-10.124.0.101 Europe/Berlin
-10.124.0.30 Europe/Berlin
+;; communications error to 1.1.1.1#53: timed out Europe/Berlin
+;; Warning: ID mismatch: expected ID 47710, got 38339 Europe/Berlin
 10.124.0.91 Europe/Berlin
 10.124.0.92 Europe/Berlin
 10.124.0.53 Europe/Berlin
