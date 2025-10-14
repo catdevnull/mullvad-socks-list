@@ -271,7 +271,6 @@
 10.124.0.20 Europe/Stockholm
 10.124.0.49 Europe/Stockholm
 10.124.0.152 Europe/Stockholm
-10.124.1.22 Europe/Stockholm
 10.124.1.56 Europe/Stockholm
 10.124.1.60 Europe/Stockholm
 10.124.1.61 Europe/Stockholm
@@ -459,7 +458,7 @@
 10.124.0.242 America/Chicago
 10.124.1.29 America/Chicago
 10.124.1.165 America/Chicago
-;; communications error to 1.1.1.1#53: timed out America/Chicago
+10.124.1.166 America/Chicago
 10.124.1.146 America/Chicago
 10.124.1.147 America/Chicago
 10.124.1.148 America/Chicago
