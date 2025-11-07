@@ -200,7 +200,7 @@
 10.124.2.5 Asia/Jerusalem
 10.124.2.25 Asia/Jerusalem
 10.124.2.26 Asia/Jerusalem
-;; communications error to 1.1.1.1#53: timed out Europe/Rome
+10.124.1.206 Europe/Rome
 10.124.1.207 Europe/Rome
 10.124.1.208 Europe/Rome
 10.124.0.200 Europe/Rome
@@ -278,7 +278,7 @@
 10.124.1.61 Europe/Stockholm
 10.124.1.185 Europe/Stockholm
 10.124.0.2 Europe/Stockholm
-;; communications error to 1.1.1.1#53: timed out Europe/Stockholm
+10.124.0.183 Europe/Stockholm
 10.124.0.186 Europe/Stockholm
 10.124.0.28 Europe/Stockholm
 10.124.0.185 Europe/Stockholm
