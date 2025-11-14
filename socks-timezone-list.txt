@@ -158,6 +158,7 @@
 10.124.0.246 Europe/London
 10.124.0.247 Europe/London
 10.124.0.59 Europe/London
+10.124.0.60 Europe/London
 10.124.1.16 Europe/London
 10.124.1.17 Europe/London
 10.124.1.18 Europe/London
@@ -266,8 +267,8 @@
 10.124.1.76 Europe/Lisbon
 10.124.2.27 Europe/Bucharest
 10.124.0.93 Europe/Bucharest
-10.124.0.33 Europe/Belgrade
-10.124.0.73 Europe/Belgrade
+;; communications error to 1.1.1.1#53: timed out Europe/Belgrade
+;; Warning: ID mismatch: expected ID 41221, got 40228 Europe/Belgrade
 10.124.0.20 Europe/Stockholm
 10.124.0.49 Europe/Stockholm
 10.124.0.152 Europe/Stockholm
