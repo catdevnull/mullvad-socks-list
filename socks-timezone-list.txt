@@ -17,7 +17,7 @@
 10.124.0.37 Australia/Sydney
 10.124.0.42 Australia/Sydney
 10.124.0.214 Australia/Sydney
-10.124.0.215 Australia/Sydney
+;; communications error to 1.1.1.1#53: timed out Australia/Sydney
 10.124.0.141 Australia/Sydney
 10.124.0.211 Australia/Sydney
 10.124.2.70 Australia/Sydney
@@ -82,6 +82,7 @@
 10.124.0.217 America/Bogota
 10.124.1.83 Asia/Nicosia
 10.124.1.84 Asia/Nicosia
+10.124.2.33 Europe/Prague
 10.124.2.34 Europe/Prague
 10.124.2.57 Europe/Prague
 10.124.2.58 Europe/Prague
@@ -157,7 +158,7 @@
 10.124.0.224 Europe/Paris
 10.124.1.78 Europe/Paris
 10.124.1.79 Europe/Paris
-10.124.0.246 Europe/London
+;; communications error to 1.1.1.1#53: timed out Europe/London
 10.124.0.247 Europe/London
 10.124.0.59 Europe/London
 10.124.0.60 Europe/London
@@ -206,7 +207,7 @@
 10.124.2.26 Asia/Jerusalem
 10.124.1.206 Europe/Rome
 10.124.1.207 Europe/Rome
-10.124.1.208 Europe/Rome
+;; communications error to 1.1.1.1#53: timed out Europe/Rome
 10.124.0.200 Europe/Rome
 10.124.0.201 Europe/Rome
 10.124.1.67 Europe/Rome
