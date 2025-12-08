@@ -1,5 +1,5 @@
-Date: 2025-12-08 01-08-25 UTC
-Total active proxies: 524
+Date: 2025-12-08 06-54-13 UTC
+Total active proxies: 525
  flag  country         city                socks5        ipv4             ipv6                                  speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001                   10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001                   10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -193,6 +193,7 @@ Total active proxies: 524
  🇭🇰    Hong Kong       Hong Kong           10.124.1.237  103.125.233.18   2403:2c81:1000::a06f                  10     3491      ❌     xtom           ✔️      hk-hkg-wg-201 
  🇭🇰    Hong Kong       Hong Kong           10.124.0.202  146.70.224.2     2001:ac8:a:f::f001                    10     3202      ❌     M247           ✔️      hk-hkg-wg-301 
  🇭🇰    Hong Kong       Hong Kong           10.124.0.203  146.70.224.66    2001:ac8:a:19::f001                   10     3203      ❌     M247           ✔️      hk-hkg-wg-302 
+ 🇭🇰    Hong Kong       Hong Kong           10.124.0.51   146.70.224.196   2001:ac8:a:1b::f001                   10     3051      ❌     M247           ✔️      hk-hkg-wg-303 
  🇭🇷    Croatia         Zagreb              10.124.0.35   154.47.29.2      2a02:6ea0:f401:1::a01f                10     3035      ❌     DataPacket     ✔️      hr-zag-wg-001 
  🇭🇷    Croatia         Zagreb              10.124.0.74   154.47.29.15     2a02:6ea0:f401:2::a01f                10     3074      ❌     DataPacket     ✔️      hr-zag-wg-002 
  🇭🇺    Hungary         Budapest            10.124.0.227  146.70.196.194   2001:ac8:26:55::f001                  10     3227      ❌     M247           ✔️      hu-bud-wg-101 
