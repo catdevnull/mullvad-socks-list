@@ -266,8 +266,8 @@
 10.124.0.199 Europe/Lisbon
 10.124.1.75 Europe/Lisbon
 10.124.1.76 Europe/Lisbon
-10.124.2.27 Europe/Bucharest
-10.124.0.93 Europe/Bucharest
+;; communications error to 1.1.1.1#53: timed out Europe/Bucharest
+;; Warning: ID mismatch: expected ID 30070, got 9485 Europe/Bucharest
 10.124.0.33 Europe/Belgrade
 10.124.0.73 Europe/Belgrade
 10.124.0.20 Europe/Stockholm
