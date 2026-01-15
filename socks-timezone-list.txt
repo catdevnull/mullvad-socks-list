@@ -254,7 +254,7 @@
 10.124.0.219 Pacific/Auckland
 10.124.1.81 America/Lima
 10.124.1.82 America/Lima
-10.124.0.145 Asia/Manila
+;; communications error to 1.1.1.1#53: timed out Asia/Manila
 10.124.0.146 Asia/Manila
 10.124.1.219 Europe/Warsaw
 10.124.1.220 Europe/Warsaw
@@ -451,7 +451,7 @@
 10.124.0.184 America/Chicago
 10.124.0.188 America/Chicago
 10.124.0.193 America/Chicago
-10.124.0.242 America/Chicago
+;; communications error to 1.1.1.1#53: timed out America/Chicago
 10.124.1.29 America/Chicago
 10.124.1.165 America/Chicago
 10.124.1.166 America/Chicago
