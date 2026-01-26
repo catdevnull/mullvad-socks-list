@@ -301,8 +301,8 @@
 10.124.0.191 Europe/Stockholm
 10.124.1.80 Europe/Stockholm
 10.124.1.77 Europe/Stockholm
-;; communications error to 1.1.1.1#53: timed out Europe/Stockholm
-;; Warning: ID mismatch: expected ID 57109, got 15015 Europe/Stockholm
+10.124.1.184 Europe/Stockholm
+10.124.0.11 Europe/Stockholm
 10.124.2.48 Europe/Stockholm
 10.124.0.172 Europe/Stockholm
 10.124.0.173 Europe/Stockholm
@@ -530,7 +530,6 @@
 10.124.1.211 America/Los_Angeles
 10.124.1.6 America/Los_Angeles
 10.124.1.7 America/Los_Angeles
-10.124.1.154 America/Chicago
 10.124.1.155 America/Chicago
 10.124.1.156 America/Chicago
 10.124.1.157 America/Chicago
