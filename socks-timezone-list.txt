@@ -240,8 +240,8 @@
 10.124.0.243 Europe/Amsterdam
 10.124.0.96 Europe/Amsterdam
 10.124.0.19 Europe/Amsterdam
-;; communications error to 1.1.1.1#53: timed out Europe/Amsterdam
-;; Warning: ID mismatch: expected ID 26373, got 56109 Europe/Amsterdam
+10.124.0.41 Europe/Amsterdam
+10.124.0.48 Europe/Amsterdam
 10.124.1.253 Europe/Amsterdam
 10.124.1.254 Europe/Amsterdam
 10.124.2.1 Europe/Amsterdam
