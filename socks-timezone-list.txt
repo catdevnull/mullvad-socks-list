@@ -71,7 +71,6 @@
 10.124.0.174 America/Edmonton
 10.124.0.178 America/Edmonton
 10.124.0.121 Europe/Zurich
-10.124.0.122 Europe/Zurich
 10.124.0.123 Europe/Zurich
 10.124.0.124 Europe/Zurich
 10.124.0.125 Europe/Zurich
@@ -242,6 +241,7 @@
 10.124.0.19 Europe/Amsterdam
 10.124.0.41 Europe/Amsterdam
 10.124.0.48 Europe/Amsterdam
+10.124.1.253 Europe/Amsterdam
 10.124.1.254 Europe/Amsterdam
 10.124.2.1 Europe/Amsterdam
 10.124.0.6 Europe/Oslo
@@ -280,6 +280,7 @@
 10.124.0.65 Europe/Stockholm
 10.124.1.22 Europe/Stockholm
 10.124.1.60 Europe/Stockholm
+10.124.1.61 Europe/Stockholm
 10.124.1.185 Europe/Stockholm
 10.124.0.2 Europe/Stockholm
 10.124.0.183 Europe/Stockholm
