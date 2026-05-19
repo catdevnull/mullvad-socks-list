@@ -41,7 +41,7 @@
 10.124.2.2 America/Sao_Paulo
 10.124.2.21 America/Sao_Paulo
 10.124.2.52 America/Sao_Paulo
-;; communications error to 1.1.1.1#53: timed out America/Toronto
+10.124.0.231 America/Toronto
 10.124.0.232 America/Toronto
 10.124.0.233 America/Toronto
 10.124.0.234 America/Toronto
