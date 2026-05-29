@@ -1,5 +1,5 @@
-Date: 2026-05-29 01-27-58 UTC
-Total active proxies: 546
+Date: 2026-05-29 08-04-45 UTC
+Total active proxies: 536
  flag  country         city                socks5        ipv4             ipv6                       speed  multihop  owned  provider       stboot  hostname      
  🇦🇱    Albania         Tirana              10.124.2.66   103.124.165.130  2a04:27c0:0:c::f001        10     3574      ❌     iRegister      ✔️      al-tia-wg-003 
  🇦🇱    Albania         Tirana              10.124.2.67   103.124.165.191  2a04:27c0:0:d::f001        10     3575      ❌     iRegister      ✔️      al-tia-wg-004 
@@ -332,12 +332,6 @@ Total active proxies: 546
  🇺🇦    Ukraine         Kyiv                10.124.0.195  149.102.240.66   2a02:6ea0:e109:1::a02f     10     3195      ❌     DataPacket     ✔️      ua-iev-wg-002 
  🇺🇸    USA             Atlanta, GA         10.124.1.233  45.134.140.130   2a02:6ea0:c122:1::b79f     10     3487      ❌     DataPacket     ✔️      us-atl-wg-001 
  🇺🇸    USA             Atlanta, GA         10.124.1.234  45.134.140.143   2a02:6ea0:c122:2::b80f     10     3488      ❌     DataPacket     ✔️      us-atl-wg-002 
- 🇺🇸    USA             Atlanta, GA         10.124.1.116  67.213.209.116   2606:2e00:8000:4::f001     10     3370      ❌     100TB          ✔️      us-atl-wg-301 
- 🇺🇸    USA             Atlanta, GA         10.124.1.117  67.213.209.117   2606:2e00:8000:4::f101     10     3371      ❌     100TB          ✔️      us-atl-wg-302 
- 🇺🇸    USA             Atlanta, GA         10.124.1.118  67.213.209.118   2606:2e00:8000:4::f201     10     3372      ❌     100TB          ✔️      us-atl-wg-303 
- 🇺🇸    USA             Atlanta, GA         10.124.1.119  67.213.209.119   2606:2e00:8000:4::f301     10     3373      ❌     100TB          ✔️      us-atl-wg-304 
- 🇺🇸    USA             Atlanta, GA         10.124.1.120  67.213.209.120   2606:2e00:8000:4::f401     10     3374      ❌     100TB          ✔️      us-atl-wg-305 
- 🇺🇸    USA             Atlanta, GA         10.124.1.121  67.213.209.121   2606:2e00:8000:4::f501     10     3375      ❌     100TB          ✔️      us-atl-wg-306 
  🇺🇸    USA             Atlanta, GA         10.124.1.130  23.234.108.3     2607:9000:c00:31::f001     10     3384      ❌     Tzulo          ✔️      us-atl-wg-401 
  🇺🇸    USA             Atlanta, GA         10.124.1.131  23.234.108.127   2607:9000:c00:32::f001     10     3385      ❌     Tzulo          ✔️      us-atl-wg-402 
  🇺🇸    USA             Atlanta, GA         10.124.1.132  23.234.109.3     2607:9000:c00:33::f001     10     3386      ❌     Tzulo          ✔️      us-atl-wg-403 
@@ -528,10 +522,6 @@ Total active proxies: 546
  🇺🇸    USA             San Jose, CA        10.124.1.159  23.234.94.127    2607:9000:800:36::f001     10     3413      ❌     Tzulo          ✔️      us-sjc-wg-506 
  🇺🇸    USA             San Jose, CA        10.124.1.160  23.234.95.3      2607:9000:800:37::f001     10     3414      ❌     Tzulo          ✔️      us-sjc-wg-507 
  🇺🇸    USA             San Jose, CA        10.124.1.161  23.234.95.127    2607:9000:800:38::f001     10     3415      ❌     Tzulo          ✔️      us-sjc-wg-508 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.12   69.4.234.9       2607:fc98:0:8a::f301       10     3266      ❌     100TB          ✔️      us-slc-wg-201 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.13   69.4.234.149     2607:fc98:0:8a::f401       10     3267      ❌     100TB          ✔️      us-slc-wg-202 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.14   69.4.234.131     2607:fc98:0:8a::f501       10     3268      ❌     100TB          ✔️      us-slc-wg-203 
- 🇺🇸    USA             Salt Lake City, UT  10.124.1.15   69.4.234.10      2607:fc98:0:8a::f601       10     3269      ❌     100TB          ✔️      us-slc-wg-204 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.139  23.234.112.127   2607:9000:d00:3::f001      10     3393      ❌     Tzulo          ✔️      us-slc-wg-302 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.140  23.234.113.3     2607:9000:d00:4::f001      10     3394      ❌     Tzulo          ✔️      us-slc-wg-303 
  🇺🇸    USA             Salt Lake City, UT  10.124.1.141  23.234.113.127   2607:9000:d00:5::f001      10     3395      ❌     Tzulo          ✔️      us-slc-wg-304 
