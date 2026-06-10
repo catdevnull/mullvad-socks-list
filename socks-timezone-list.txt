@@ -2,9 +2,6 @@
 10.124.2.67 Europe/Tirane
 10.124.0.15 America/Argentina/Buenos_Aires
 10.124.0.47 America/Argentina/Buenos_Aires
-10.124.2.35 Europe/Vienna
-10.124.2.36 Europe/Vienna
-10.124.2.37 Europe/Vienna
 10.124.1.73 Europe/Vienna
 10.124.1.74 Europe/Vienna
 10.124.0.99 Australia/Adelaide
@@ -218,8 +215,6 @@
 10.124.1.178 Asia/Tokyo
 10.124.1.179 Asia/Tokyo
 10.124.1.180 Asia/Tokyo
-10.124.1.218 Asia/Tokyo
-10.124.1.217 Asia/Tokyo
 10.124.0.107 Asia/Tokyo
 10.124.0.160 Asia/Tokyo
 10.124.0.161 Asia/Tokyo
