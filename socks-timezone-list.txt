@@ -220,8 +220,8 @@
 10.124.0.161 Asia/Tokyo
 10.124.0.154 America/Mexico_City
 10.124.0.204 America/Mexico_City
-10.124.0.205 America/Mexico_City
-10.124.0.206 America/Mexico_City
+;; communications error to 1.1.1.1#53: timed out America/Mexico_City
+;; Warning: ID mismatch: expected ID 6810, got 35791 America/Mexico_City
 10.124.1.39 Asia/Kuala_Lumpur
 10.124.1.40 Asia/Kuala_Lumpur
 10.124.0.97 Africa/Lagos
