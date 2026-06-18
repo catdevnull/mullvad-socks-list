@@ -73,6 +73,8 @@
 10.124.0.121 Europe/Zurich
 10.124.0.122 Europe/Zurich
 10.124.0.123 Europe/Zurich
+10.124.0.125 Europe/Zurich
+10.124.0.241 Europe/Zurich
 10.124.0.105 Europe/Zurich
 10.124.0.106 Europe/Zurich
 10.124.1.213 Europe/Zurich
@@ -516,6 +518,7 @@
 10.124.1.159 America/Los_Angeles
 10.124.1.160 America/Los_Angeles
 10.124.1.161 America/Los_Angeles
+10.124.1.138 America/Denver
 10.124.1.139 America/Denver
 10.124.1.140 America/Denver
 10.124.1.141 America/Denver
