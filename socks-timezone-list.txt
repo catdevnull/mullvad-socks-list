@@ -80,7 +80,6 @@
 10.124.1.214 Europe/Zurich
 10.124.1.216 Europe/Zurich
 10.124.0.176 Europe/Zurich
-10.124.0.180 Europe/Zurich
 10.124.1.20 America/Santiago
 10.124.1.21 America/Santiago
 10.124.0.216 America/Bogota
