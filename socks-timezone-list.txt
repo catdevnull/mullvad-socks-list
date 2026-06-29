@@ -116,7 +116,6 @@
 10.124.1.241 Europe/Berlin
 10.124.1.242 Europe/Berlin
 10.124.1.30 Europe/Berlin
-10.124.1.31 Europe/Berlin
 10.124.1.32 Europe/Berlin
 10.124.1.250 Europe/Berlin
 10.124.1.251 Europe/Berlin
@@ -448,9 +447,7 @@
 10.124.1.46 America/New_York
 10.124.1.47 America/New_York
 10.124.0.235 America/New_York
-10.124.0.131 America/Chicago
 10.124.0.132 America/Chicago
-10.124.0.133 America/Chicago
 10.124.0.170 America/New_York
 10.124.0.184 America/New_York
 10.124.0.188 America/New_York
