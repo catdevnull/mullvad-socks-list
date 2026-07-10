@@ -121,7 +121,6 @@
 10.124.1.251 Europe/Berlin
 10.124.1.252 Europe/Berlin
 10.124.0.64 Europe/Copenhagen
-10.124.0.17 Europe/Copenhagen
 10.124.2.91 Europe/Copenhagen
 10.124.0.229 Europe/Copenhagen
 10.124.0.230 Europe/Copenhagen
@@ -294,11 +293,8 @@
 10.124.1.80 Europe/Stockholm
 10.124.1.77 Europe/Stockholm
 10.124.1.184 Europe/Stockholm
-10.124.0.11 Europe/Stockholm
-10.124.2.48 Europe/Stockholm
 10.124.0.172 Europe/Stockholm
 10.124.0.173 Europe/Stockholm
-10.124.0.50 Europe/Stockholm
 10.124.0.61 Europe/Stockholm
 10.124.0.62 Europe/Stockholm
 10.124.0.77 Europe/Stockholm
@@ -367,8 +363,8 @@
 10.124.1.225 America/Chicago
 10.124.1.224 America/Chicago
 10.124.1.171 America/Chicago
-10.124.1.173 Asia/Tokyo
-10.124.1.174 Asia/Tokyo
+10.124.1.173 Asia/Kolkata
+10.124.1.174 Asia/Kolkata
 10.124.2.88 America/Chicago
 10.124.2.89 America/Chicago
 10.124.2.101 America/Chicago
