@@ -216,6 +216,9 @@
 10.124.1.178 Asia/Tokyo
 10.124.1.179 Asia/Tokyo
 10.124.1.180 Asia/Tokyo
+10.124.0.56 Asia/Tokyo
+10.124.0.136 Asia/Tokyo
+10.124.0.237 Asia/Tokyo
 10.124.1.218 Asia/Tokyo
 10.124.1.217 Asia/Tokyo
 10.124.1.118 Asia/Tokyo
