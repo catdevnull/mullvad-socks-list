@@ -178,7 +178,6 @@
 10.124.0.34 Europe/London
 10.124.0.88 Europe/London
 10.124.1.162 Europe/London
-10.124.1.163 Europe/London
 10.124.0.159 Europe/Athens
 10.124.0.166 Europe/Athens
 10.124.1.237 Asia/Hong_Kong
@@ -244,6 +243,8 @@
 10.124.0.244 Europe/Amsterdam
 10.124.0.245 Europe/Amsterdam
 10.124.1.121 Europe/Amsterdam
+10.124.0.236 Europe/Tirane
+10.124.1.48 Europe/Tirane
 10.124.0.6 Europe/Oslo
 10.124.0.108 Europe/Oslo
 10.124.0.109 Europe/Oslo
