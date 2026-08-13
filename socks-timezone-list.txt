@@ -210,7 +210,7 @@
 10.124.2.25 Asia/Jerusalem
 10.124.2.26 Asia/Jerusalem
 10.124.1.206 Europe/Rome
-10.124.1.207 Europe/Rome
+;; communications error to 1.1.1.1#53: timed out Europe/Rome
 10.124.1.208 Europe/Rome
 10.124.0.200 Europe/Rome
 10.124.0.201 Europe/Rome
