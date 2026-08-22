@@ -390,8 +390,8 @@
 10.124.2.104 America/Chicago
 10.124.2.106 America/Chicago
 10.124.1.196 America/Denver
-;; communications error to 1.1.1.1#53: timed out America/Denver
-;; Warning: ID mismatch: expected ID 48920, got 50646 America/Denver
+10.124.1.197 America/Denver
+10.124.1.198 America/Denver
 10.124.0.147 America/Denver
 10.124.0.148 America/Denver
 10.124.0.149 America/Denver
@@ -504,7 +504,7 @@
 10.124.1.42 America/New_York
 10.124.1.43 America/New_York
 10.124.1.44 America/New_York
-10.124.1.96 America/New_York
+;; communications error to 1.1.1.1#53: timed out America/New_York
 10.124.1.97 America/New_York
 10.124.1.98 America/New_York
 10.124.1.229 America/Los_Angeles
