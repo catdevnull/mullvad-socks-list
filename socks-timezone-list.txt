@@ -153,7 +153,7 @@
 10.124.2.56 Europe/Helsinki
 10.124.0.155 Europe/Helsinki
 10.124.0.194 Europe/Helsinki
-;; communications error to 1.1.1.1#53: timed out Europe/Helsinki
+10.124.0.210 Europe/Helsinki
 10.124.1.63 Europe/Paris
 10.124.1.64 Europe/Paris
 10.124.0.45 Europe/Paris
@@ -197,7 +197,7 @@
 10.124.1.237 Asia/Hong_Kong
 10.124.0.181 Asia/Hong_Kong
 10.124.0.202 Asia/Hong_Kong
-;; communications error to 1.1.1.1#53: timed out Asia/Hong_Kong
+10.124.0.203 Asia/Hong_Kong
 10.124.0.51 Asia/Hong_Kong
 10.124.0.35 Europe/Zagreb
 10.124.0.74 Europe/Zagreb
@@ -464,7 +464,7 @@
 10.124.0.87 America/New_York
 10.124.0.90 America/New_York
 10.124.0.213 America/New_York
-;; communications error to 1.1.1.1#53: timed out Europe/Bucharest
+10.124.0.167 Europe/Bucharest
 10.124.0.187 America/New_York
 10.124.1.45 America/New_York
 10.124.1.46 America/New_York
